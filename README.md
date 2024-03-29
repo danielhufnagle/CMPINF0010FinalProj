@@ -2,7 +2,7 @@
 Final project for CMPINF 0010 - Big Ideas in Computing and Information
 
 # Team Name
-Idk
+The EducatedHorses
 
 # Team Members
 - Daniel Hufnagle, Maximus Catanzaro, Joseph Hallak
