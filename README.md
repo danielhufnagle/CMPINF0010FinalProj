@@ -5,7 +5,7 @@ Final project for CMPINF 0010 - Big Ideas in Computing and Information
 Idk
 
 # Team Members
-- Daniel Hufnagle
+- Daniel Hufnagle, Maximus Catanzaro
 
 # Dataset links
 - [City Pools](https://data.wprdc.org/dataset/city-pools/resource/5cc254fe-2cbd-4912-9f44-2f95f0beea9a) This dataset contains locations of every public pool and spray park in the city of Pittsburgh
