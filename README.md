@@ -8,11 +8,11 @@ The Educated Horses (Team 11)
 - Daniel Hufnagle (dch59@pitt.edu), Maximus Catanzaro (fmc24@pitt.edu), Joseph Hallak (jdh219@pitt.edu)
 
 # Main Metric
-The best neighborhood in Pittsburgh for active entertainment
+The best neighborhood in Pittsburgh for **active outdoor entertainment**
 ### Sub Metrics
-- Number of public pools and spray parks in each neighborhood
-- Number of public sport-related courts or rinks in each neighborhood
-- Number of public playgrounds in each neighborhood
+- Number of **public pools and spray parks** in each neighborhood
+- Number of **public sport-related courts or rinks** in each neighborhood
+- Number of **public playgrounds** in each neighborhood
 
 # Dataset links and Description
 - [City Pools](https://data.wprdc.org/dataset/city-pools/resource/5cc254fe-2cbd-4912-9f44-2f95f0beea9a) This dataset contains locations of every public pool and spray park in the city of Pittsburgh - Joe
