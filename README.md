@@ -20,4 +20,4 @@ The best neighborhood in Pittsburgh for active entertainment
 - [Playgrounds](https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367) This dataset contains locations of every public playground in the city of Pittsburgh - Max
 
 # Description
-Our goal was to determine what the best neighborhood in Pittsburgh according to our main metric. So the best neighborhood would be the one with the highest average ranking with regard to each of the submetrics.
+Our goal was to determine what the best neighborhood in Pittsburgh according to our main metric (active entertainment) which is determined by taking the neighborhood with the best average ranking across the submetrics (pools/spray parks per neighborhood, playgrounds per neighborhood, courts/rinks per neighborhood).
